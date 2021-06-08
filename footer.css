@@ -1,19 +1,23 @@
-.footer {
-  background-color: #2f5167;
-  color: #fff;
-  height: 120px;
-  padding: 40px;
+footer {
+  background-color: #fee;
+  color: #2e3742;
+  height: 180px;
+  padding: 90px;
+  background-image:url(https://static-cse.canva.com/blob/140234/Rainbow-Gradient-Pink-and-Purple-Zoom-Virtual-Background.60e555ec.png);
+  background-size:cover;
 }
-
-.footer-logo {
+footer img {width:150px;float:left;}
+.logo-footer {
   float: left;
-  font-size: 32px;
+  font-size: 50px;
 }
 
 .footer-list {
-  float: right;
+  float:right;
 }
 
 .footer-list li {
-  padding-bottom: 20px;
+  padding-bottom: 10px;padding-top:10px; border-bottom: 3px solid #2e3742; font-size:25px;
 }
+
+
